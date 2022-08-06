@@ -12,7 +12,7 @@ const ComponenteA = ({contacto}) => {
 	        <p>Email: {contacto.email}</p>
             <ComponenteB estado={false}/>
 	    </div>
-	    );
+	    )
 };
 
 
